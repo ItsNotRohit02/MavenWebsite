@@ -14,7 +14,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>LOGIN</title>
+    <title>Login</title>
 
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
     <link href="${contextPath}/resources/css/common.css" rel="stylesheet">
@@ -32,7 +32,8 @@
 </head>
 </head>
 
-<body>
+<body background = "${contextPath}/resources/Images/login-background.png">
+    
 <div class="mainbody container-fluid">
     <div class="row">
         <div class="navbar-wrapper">
