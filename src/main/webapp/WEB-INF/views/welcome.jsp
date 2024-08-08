@@ -137,7 +137,7 @@
                         </div>
                     </span>
                     <br><br>
-                    <i class="fa fa-tags" aria-hidden="true"></i> <a href="#" class="tag">#DevOps</a> <a href="#" class="tag"> #Continuous Integration</a> <a href="#" class="tag"> #Continuous Delivery </a><a href="#" class="tag"> #Automation</a>
+                    <i class="fa fa-tags" aria-hidden="true"></i> <a href="#" class="tag">#HashTag1</a> <a href="#" class="tag"> #HashTag2</a> <a href="#" class="tag"> #HashTag3 </a><a href="#" class="tag"> #HashTag4</a>
                      <c:if test="${pageContext.request.userPrincipal.name =='admin_vp'}">
 					     <a href="${contextPath}/users" class="btn btn-success" >All Users</a>
 					 </c:if>
