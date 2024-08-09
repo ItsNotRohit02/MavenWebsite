@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/rohit/Documents/VSCode Programs/MavenApp/vagrant/Automated_provisioning","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
